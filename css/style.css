@@ -99,7 +99,7 @@ body {
   flex-direction: column;
   gap: 24px;
   align-self: stretch;
-  margin-top: 24px;
+  margin-top: 40px;
 }
 
 .button {
