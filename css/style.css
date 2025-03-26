@@ -25,6 +25,7 @@ body {
 
 .card {
   width: 340px;
+  height: 428px;
   display: flex;
   flex-direction: column;
   position: fixed;
